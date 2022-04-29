@@ -1,0 +1,26 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: rgb(206, 199, 199);
+}
+
+h1 {
+    color: rgb(47, 47, 224);
+}
+
+h2 {
+    color:rgb(66, 66, 224);
+}
+
+p, li {
+    color: black;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
